@@ -1,0 +1,14 @@
+{
+  "name": "vanilla-html-css-js-template",
+  "version": "1.0.0",
+  "description": "This is a template to base github classroom home assignments on so that they automatically open and start a preview in stackblitz.",
+  "scripts": {
+    "start": "snowpack dev"
+  },
+  "author": "Paul Negoescu",
+  "license": "MIT",
+  "devDependencies": {
+    "snowpack": "^3.8.8",
+    "@snowpack/plugin-sass": "^1.4.0"
+  }
+}
